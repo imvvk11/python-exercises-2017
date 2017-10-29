@@ -12,8 +12,7 @@ Now from cmd type > python
 and what you get should look like this: Python 3.6.0 (v3.6.0:41df79263a11, Dec 23 2016, 07:18:10) [MSC v.1900 32 bit (Intel)] on win32 Type "copyright", "credits" or "license()" for more information.
 
 If you get an error message like this:
-
-python is not recognized as an internal or external command, operable program or batch file.
+"python is not recognized as an internal or external command, operable program or batch file."
 
 Then it means that python has not been installed on your computer or probably python is not saved in the path environment variable of your computer, so you cannot run Python from any location without having to constantly reference the full installation path name. Make sure to check my write-up on how to install python on windows.
 
