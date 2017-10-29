@@ -31,4 +31,4 @@ Now from your windows cmd type >> jupyter notebook
 Then you will see these on your cmd:
 [I 14:23:06.434 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation). [C 14:23:06.439 NotebookApp] http://localhost:8888/?token=bc0be2222c30202714d21024d3a5898a3f28eb28dff458f9 [I 14:23:10.781 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
 
-Now open your default browser or click on the http://localhost:8888/ to open your jupyter notebook you will see the complete-python-bootcamp-master folder, open it and you will have notes to learn python . It contains .ipynb files, open it ad enjoy!
+Now open your default browser or click on the http://localhost:8888/ to open your jupyter notebook you will see the complete-python-bootcamp-master folder, open it and you will find programming queations and solutions in python. It contains .ipynb files, open it ad enjoy!
