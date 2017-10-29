@@ -14,7 +14,7 @@ and what you get should look like this: Python 3.6.0 (v3.6.0:41df79263a11, Dec 2
 If you get an error message like this:
 "python is not recognized as an internal or external command, operable program or batch file."
 
-Then it means that python has not been installed on your computer or probably python is not saved in the path environment variable of your computer, so you cannot run Python from any location without having to constantly reference the full installation path name. Make sure to check my write-up on how to install python on windows.
+Then it means that python has not been installed on your computer or probably python is not saved in the path environment variable of your computer, so you cannot run Python from any location without having to constantly reference the full installation path name.
 
 After installing python you have to install pip: Download get-pip.py: https://bootstrap.pypa.io/get-pip.py to a folder on your computer. Open a command prompt window and navigate to the folder containing get-pip.py. Then run >> python get-pip.py
 
