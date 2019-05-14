@@ -3,7 +3,7 @@
 simple programming questions solved using python.
 
 
-
+OS - Windows
 
 Install python on your system from https://www.python.org/downloads/
 
